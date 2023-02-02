@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+  <appSettings>
+    <add key="fileLoc" value="C:\Users\justi\Downloads\Hammurabi 5\Hammurabi 5\Hammurabi 4.0\Hammurabi Attempt 2\Hammurabi Attempt 2\bin\Debug\Scores.txt"/>
+  </appSettings>
+</configuration>

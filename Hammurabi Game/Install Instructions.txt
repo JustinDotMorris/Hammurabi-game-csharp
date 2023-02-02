@@ -1,0 +1,11 @@
+*Install Instructions*
+To install Hammurabi please double click the setup.exe file,
+this will open the installer, 
+please follow the installer instructions and install to your preffered location.
+
+Once the install is complete you are free to add a shortcut to your taskbar or desktop.
+
+*Uninstall Instructions*
+To uninstall please navigate to programs within windows settings.
+Once there, locate 'Hammurabi' and click uninstall.
+The uninstaller prompt will appear, please press ok.
